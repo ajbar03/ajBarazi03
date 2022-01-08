@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulrahman J. Barazi
 - 👀 I’m interested in cybersecurity!
-- 🌱 I’m currently learning Computer Science.
+- 🌱 I’m currently learning Computer Science from CS50
 - 📫 How to reach me: m.s.brazi@gmail.com
 
 <!---
