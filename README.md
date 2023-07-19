@@ -3,8 +3,7 @@
 - 📫 How to reach me: braziabud@gmail.com
 
 ### About me:
-I'm a home student with a huge passion in IT and cybersecurity.  My passion has led me expand my knowledge in Computer Science and IT because I've always been fascinated by computers from young age. At the end of 2019, I started studying online courses via Udemy, edX, Youtube, FreeCodeCamp, ProfessorMesser, etc. At first, I've studied the fundamentals of computers, then started studying IT. I've studied and completed CompTIA A+ 220-1001 and 1002, CompTIA Network+ N10-007, and Security+ SY0-601 (note: I've only studied the course materials online via ProfessorMesser. Although I currently don't hold any certifications whatsoever, I've gained a lot of Computer Science and IT academic knowledge). Then, I've shifted my focus onto Computer Science and have completed two courses and their projects via edX (CS50's Introduction to Computer Science, and CS50's Web Programming with Python and JavaScript) and have completed two coding bootcamps at Udemy. I also have basic knowledge in Microsoft Office. Most recently, I'm studying Comptia A+ 220-1101 (the latest version) online and I'm extremely motivated and willing to pursue the certification. But for that, I need some experience in the field. I find this internship position suitable to improve and gain working experience.
-
+I'm a home student with a huge passion in IT and cybersecurity.  My passion has led me expand my knowledge in Computer Science and IT because I've always been fascinated by computers from young age. At the end of 2019, I started studying online courses via Udemy, edX, Youtube, FreeCodeCamp, ProfessorMesser, etc. At first, I've studied the fundamentals of computers, then started studying IT. I've studied and completed CompTIA A+ 220-1001 and 1002, CompTIA Network+ N10-007, and Security+ SY0-601 (note: I've only studied the course materials online via ProfessorMesser. Although I currently don't hold any certifications whatsoever, I've gained a lot of Computer Science and IT academic knowledge). Then, I've shifted my focus onto Computer Science and have completed two courses and their projects via edX (CS50's Introduction to Computer Science, and CS50's Web Programming with Python and JavaScript) and have completed two coding bootcamps at Udemy. I also have basic knowledge in Microsoft Office. Most recently, I've passed the CompTIA A+ 220-1101 exam.
 
 ### Education:
 Comptia A+ 220-1101 via ProfessorMesser and ITU Online (December 2022 - present)
@@ -19,7 +18,7 @@ Complete Python Bootcamp via Udemy (September 2020)
 Coding for Beginners via Udemy (August 2020)
 CompTIA A+ 220-1001 via ProfessorMesser (July 2020)
 Computer Basics for Beginners (January 2020)
-New Pakistan Internation School (2009 - 2016)
+NPIS Private School (2009 - 2016)
 
 
 ### Skills and Certificates:
