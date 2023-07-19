@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Abdulrahman Javier Barazi
-- I currently live in Hawally, Kuwait
 - 👀 I’m interested in IT and Cybersecurity
 - 🌱 I took CS50x and CS50w online via edX!
 - 📫 How to reach me: braziabud@gmail.com
